@@ -1,11 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-import screen1 from './pages/screen1.js';
+import About from './pages/About.js';
+import SignIn from './pages/SignIn.js';
 
 function App() {
-  return
-  (
-    <screen1 />
+  return (
+    <h1>
+      HeeeeeelllllllllooooooooWwwwwwwwoooooorrrrrrllllllddddddd!
+    </h1>
   )
 }
 
