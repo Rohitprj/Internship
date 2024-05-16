@@ -52,8 +52,10 @@ function App() {
         </div>
 
       </div>
-    </header >
-  )
-}
+    </header>
 
+
+  )
+
+}
 export default App;
